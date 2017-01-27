@@ -86,7 +86,7 @@ The code should appear in the *VSTS* repo after the import completed. You can cl
    ![Select the project](images/exercise2/vs-clone.png)
 1. Try to run the app in the Android Emulator (see [Exercise 1](exercise1.md) for trouble shooting)<br/>
    **Plan enough time for solving problems with Emulator, Xamarin, NuGet, etc.**   
-   1. Set the Java Maximum Heap Size to **1G** for Debug and Release configurations.
+   1. Set the Java Maximum Heap Size to **1G** for Debug and **Release** configurations.
    1. Update **Xamarin.Forms** NuGet package (if available)
    1. If you updated the **Xamarin.Forms** package, please commit und push your changes to your repository before continueing.
 

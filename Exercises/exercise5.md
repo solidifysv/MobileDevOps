@@ -111,6 +111,7 @@ HockeyApp.MetricsManager.TrackEvent("Custom Event");
 
 ### User feedback integration in project
 This will add the ability for your users to provide feedback from right inside your app. For a quick demo we're calling the two methods right after startup - usually you would create a button or menu entry and execute it there.
+**Please note**: The FeedbackManager.ShowFeedbackActivity(*) method is interactive and cant run in Xamarin Test Cloud. So it can only run in devices with end users. Comment it out before commit so your Xamarin Test Cloud works (just for exercise purpose, you need a condition to not run it in Xamarin Test Cloud).
 
 ```cs
 FeedbackManager.Register(Application);

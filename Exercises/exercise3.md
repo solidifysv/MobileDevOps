@@ -137,6 +137,18 @@
     ```cs
     var tweets = await this.twitterManager.LoadItemsAsync();
     ```
+    
+    **NB**  And make sure to comment out everything between:
+    ```cs
+    //var auth = new ApplicationOnlyAuthorizer()
+    ..
+    //                      tweet.RetweetedStatus.User.ProfileImageUrl.Replace("http://", "https://") : (tweet.User.ScreenNameResponse == "shanselman" ? "scott159.png" : tweet.User.ProfileImageUrl.Replace("http://", "https://"))
+    //   }).ToList();
+    foreach (var tweet in tweets)
+    {
+        Tweets.Add(tweet);
+    }
+    ```
 1. Add a .ToList() in the iOS implementation to solve compiler error<br/>
 
     ```cs

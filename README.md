@@ -2,16 +2,22 @@
 
 ## Introduction
 
-This repository and its content has been created for the training "Mobile DevOps". Its content is described below. The trainings take place all over Western Europe. Note that the content of the repository will not be kept up to date after all the trainings took place.
+This repository and its content has been created for the training "Mobile DevOps". Its content is described below. The trainings take place all over Western Europe. 
+
+**Please Note** This is a Fork of original repository, the content has been slightly customized and was used to run Training in Stockholm, Sweden on 2017-01-25 - 2017-01-26.
+Note that the content of the repository will not be kept up to date after the training took place.
+
+Training was done by 
+1. [Taavi Koosaar](http://www.solidify.se/medarbetare/taavi-koosaar/), [Solidify](http://www.solidify.se/).
+1. [Simon Jäger, Microsoft Technical Envangelist](http://simonjaeger.com/)
 
 ## Slides and Exercises
 
-You can [download a slide deck with related content from Onedrive](https://1drv.ms/p/s!AnByKdQdIw5KgifodS-DutFnfQjn).
+You can [download a slide deck with related content from here](https://github.com/solidifysv/MobileDevOps/tree/master/Slides/20170125_0126_MobileDevOps_clean.pdf).
 
 **You find the exercises of the training in the [Exercises](Exercises) folder.**
 
 The training outline is available in [Excel](MobileDevOps-PartnerTraining-Outline.xlsx).
-
 
 ## Training Content
 
