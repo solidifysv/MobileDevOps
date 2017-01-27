@@ -8,8 +8,9 @@ This repository and its content has been created for the training "Mobile DevOps
 Note that the content of the repository will not be kept up to date after the training took place.
 
 Training was done by 
-1. [Taavi Koosaar](http://www.solidify.se/medarbetare/taavi-koosaar/), [Solidify](http://www.solidify.se/).
-1. [Simon Jäger, Microsoft Technical Envangelist](http://simonjaeger.com/)
+
+* [Taavi Koosaar](http://www.solidify.se/medarbetare/taavi-koosaar/), [Solidify](http://www.solidify.se/).
+* [Simon Jäger, Microsoft Technical Envangelist](http://simonjaeger.com/)
 
 ## Slides and Exercises
 
